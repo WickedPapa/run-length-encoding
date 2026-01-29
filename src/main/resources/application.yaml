@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: run-length-encoding
+
+run-length-encoding:
+  implementation: SIMPLE
+  #implementation: REGEX
